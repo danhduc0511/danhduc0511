@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer specializing in building robust backend systems with Java/Spring and dynamic frontends with React. I love creating scalable applications and exploring new technologies to solve real-world problems.
+I'm a  Developer specializing in building robust backend systems with Java/Spring and dynamic frontends with React. I love creating scalable applications and exploring new technologies to solve real-world problems.
 
 
 ## 🛠️ Tech Stack
