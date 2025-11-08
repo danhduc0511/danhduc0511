@@ -7,13 +7,4 @@
 - **Môi trường phát triển**: NetBeans 23  
 - **Phiên bản JDK**: JDK 21  
 
-## Cấu Trúc Dự Án  
-- `src/main/java` : Chứa các Packages tương ứng với số thứ tự của Đề.
-- `filename.txt`: Tương ứng là các file Text Documents để ghi dữ liệu và đọc dữ liệu.
-
-
-
-## Đề Thi
-https://drive.google.com/drive/folders/1joHFijjpWFLLWRawgd5WlGKqOnbJJYuw?usp=sharing
-
 
