@@ -1,0 +1,4 @@
+hoTen=Nguyen Van A, soBaoDanh=01, truongHoc=KMA, diemCong=0.25, DIEM_SAN=3, Diem Toan: 1.0, Diem Ly: 1.0, Diem Hoa: 2.0, Tong diem: 1.5
+hoTen=Nguyen Van B, soBaoDanh=02, truongHoc=KMA, diemCong=0.5, DIEM_SAN=3, Diem Toan: 8.0, Diem Van: 8.0, Diem Anh: 9.0, Tong Diem: 9.0
+hoTen=Nguyen Van C, soBaoDanh=03, truongHoc=KMA, diemCong=0.25, DIEM_SAN=3, Diem Toan: 8.0, Diem Ly: 8.0, Diem Hoa: 9.0, Tong diem: 8.5
+hoTen=Nguyen Van D, soBaoDanh=04, truongHoc=KMA, diemCong=0.5, DIEM_SAN=3, Diem Toan: 1.0, Diem Van: 2.0, Diem Anh: 2.0, Tong Diem: 2.25

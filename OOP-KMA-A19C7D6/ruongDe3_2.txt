@@ -1,0 +1,2 @@
+maRuong=RV1, tenChuHo=Nguyen Van A, loaiCayTrong=Tao, DIEN_TICH_MAX=100, Do danh Canh: 11.0, Dien Tich: 121.0
+maRuong=RCN1, tenChuHo=Nguyen Van B, loaiCayTrong=Tao, DIEN_TICH_MAX=100, Chieu Dai: 11.0, Chieu Rong: 11.0, Dien Tich: 121.0

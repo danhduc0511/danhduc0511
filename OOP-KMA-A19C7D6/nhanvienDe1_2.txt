@@ -1,0 +1,1 @@
+hoTen=Nguyen Van A, thamNien=1, queQuan=ha Noi, soGioLamViec=11.0, LUONG_GIO=100000, isBepTruong: true, thuongChucVu: 15.0, Luong: 1265000.006556511

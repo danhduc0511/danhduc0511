@@ -1,0 +1,7 @@
+TienTe$dollar$Tien Dollar$true$23000
+TienTe$vnd$Tien Viet Nam$false$1
+TienTe$euro$Tien Euro$true$32000
+TrangSuc$nkc$Nhan Kim Cuong$true$1000
+TrangSuc$nv$Nhan Vang$false$9000
+TrangSuc$nb$Nhan Bac$true$8000
+TienTe$ndt$Nhan Dan Te$false$3500.0

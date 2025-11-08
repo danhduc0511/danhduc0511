@@ -1,0 +1,6 @@
+DienThoai$iphone 13$ip15$1000$1300$0.2$100
+DienThoai$iphone 15$ip14$1100$1500$0.2$100
+DienThoai$iphone 14$ip13$1200$1400$0.2$100
+MayTinhBang$ipad M1$ipm1$1300$1400$0.2$1920x1080
+MayTinhBang$ipad M2$ipm2$1400$1500$0.2$1920x999
+MayTinhBang$ipad M3$ipm3$1500$1600$0.2$1920x888

@@ -1,0 +1,6 @@
+MonAn$ThitXao1$TX1$3$100000$0.4$true
+MonAn$ThitXao2$TX2$1$110000$0.4$false
+MonAn$ThitXao3$TX3$2$120000$0.4$false
+DoUong$NuocCam1$NC1$2$70000$0.4$false
+DoUong$NuocCam2$NC2$1$60000$0.4$true
+DoUong$NuocCam3$NC3$3$50000$0.4$false
