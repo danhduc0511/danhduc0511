@@ -5,6 +5,9 @@
 ## Công Nghệ Sử Dụng  
 - **Ngôn ngữ lập trình**: Java
 - **Môi trường phát triển**: NetBeans 23  
-- **Phiên bản JDK**: JDK 21  
+- **Phiên bản JDK**: JDK 21
+
+- Đề Thi
+https://drive.google.com/drive/folders/1joHFijjpWFLLWRawgd5WlGKqOnbJJYuw?usp=sharing
 
 
